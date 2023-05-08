@@ -1,5 +1,5 @@
-export const CREATE_USER = "userCreated";
+export const CREATE_USER = "CREATE_USER";
 
-export const LOGIN = "userLogin";
+export const LOGIN = "LOGIN";
 
-export const DELETE_USER = "deleteUser";
+export const DELETE_USER = "DELETE_USER";
